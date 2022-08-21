@@ -75,7 +75,7 @@ Composability
 
 # Contact
 
-- Email: <#@p2pcollab.net>
+- Email: [#@p2pcollab.net](mailto:#@p2pcollab.net)
 - IRC: [#p2pcollab@irc.oftc.net](ircs://irc.oftc.net:6697/p2pcollab)
 - XMPP: [p2pcollab@chat.disroot.org](xmpp:p2pcollab@chat.disroot.org)
 - Matrix: [#p2pcollab:asra.gr](https://matrix.to/#/#p2pcollab:asra.gr)
