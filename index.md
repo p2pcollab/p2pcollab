@@ -65,7 +65,7 @@ Composability
 # Projects
 
 - [LoFiRe: Local-First Repositories for Asynchronous Collaboration over Community Overlay Networks](https://lofi.re)
-- [Pandit: Pandoc-based static site generator](pandit)
+- [Pandit: Pandoc-based static site generator](pandit/)
 - [OCaml-P2P: P2P protocols and algorithms in OCaml](ocaml-p2p.md)
 
 # Repositories
