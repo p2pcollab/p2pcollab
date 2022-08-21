@@ -3,6 +3,12 @@ title: OCaml-P2P
 subtitle: P2P protocols and algorithms in OCaml
 ---
 
+# Design
+
+The libraries here implement parts of the design described in:
+
+[UPSYCLE: Ubiquitous Publish-Subscribe Infrastructure for Collaboration on Edge Networks](https://lofi.re/design/upsycle)
+
 # P2P gossip-based protocols
 
 ## PolderCast
